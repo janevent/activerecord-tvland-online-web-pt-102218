@@ -1,0 +1,1 @@
+class AddDataAttributesToShows < ActiveRecord:Migration[4.2]
